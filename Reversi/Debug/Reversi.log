@@ -1,0 +1,5 @@
+﻿  Game.cpp
+C:\Users\kelly\Desktop\Reversi\Reversi\Game.cpp(581,7): warning C4101:  'flag': 未參考的區域變數
+C:\Users\kelly\Desktop\Reversi\Reversi\Game.cpp(761,7): warning C4101:  'flag': 未參考的區域變數
+C:\Users\kelly\Desktop\Reversi\Reversi\Game.cpp(761,7): warning C4101: C:\Users\kelly\Desktop\Reversi\Reversi\Game.cpp(575) : warning C4715: 'Game::computerThinking': 不是所有控制路徑都傳回值
+  Reversi.vcxproj -> C:\Users\kelly\Desktop\Reversi\Debug\Reversi.exe
